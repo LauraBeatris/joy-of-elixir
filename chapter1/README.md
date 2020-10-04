@@ -3,6 +3,8 @@
 # Joy of Elixir - Appeasing the masses with code (Fundamentals)
 ## Chapter 1
 
+### Resume
+
 The focus of this chapter is to understand how the Elixir Interactive Shell works and how to print strings or to perform Mathematical operations on it.
 
 Covered topics:

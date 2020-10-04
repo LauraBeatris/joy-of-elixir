@@ -3,6 +3,8 @@
 # Joy of Elixir - Now, where did I put that value?
 ## Chapter 2
 
+### Resume
+
 The focus of this chapter is to understand how we can declare variables on Elixir and use
 their values to perform operations.
 
